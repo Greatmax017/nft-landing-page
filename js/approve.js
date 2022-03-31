@@ -1,6 +1,5 @@
-// approve function 31
 const { ethers } = require("ethers");
-  const { ethereum } = window;
+const { ethereum } = window;
 
 const yourContractAddress = "0x61b99Af6375deA52843c7BED296a4372d106c8Df"; 
 const contractInterface = [
