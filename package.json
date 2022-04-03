@@ -3,8 +3,11 @@
   "version": "1.1.0",
   "description": "This repo is a work-in-progress and pairs with the Mint 10k NFT project.",
   "main": "index.html",
+   "type": "module",
+  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+    
   },
   "repository": {
     "type": "git",
@@ -13,6 +16,7 @@
   "keywords": [],
   "author": "Jesse Hall (codeSTACKr)",
   "license": "MIT",
+ 
   "bugs": {
     "url": "https://github.com/codeSTACKr/nft-landing-page/issues"
   },
