@@ -1,4 +1,5 @@
 // METAMASK CONNECTION
+
 const TIMEOUT = 1000;
 const COLLECTION_NAME = 'Naviapes';
 let editions = [];
